@@ -1,3 +1,5 @@
+
+// c523cbf6d2a73e8100eb3cbe0da205b9;
 import React from 'react'
 import "./footer.css"
 import FacebookOutlinedIcon from '@mui/icons-material/FacebookOutlined';
