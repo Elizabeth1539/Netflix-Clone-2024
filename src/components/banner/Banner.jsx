@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "../../utiles/axios";
 import requests from "../../utiles/request";
 import "./banner.css";
+
 const Banner = () => {
 
 
